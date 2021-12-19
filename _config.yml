@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Michael Weigand
 
 # Your name to show in the footer
-author: Some Person
+author: Michael Weigand
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
