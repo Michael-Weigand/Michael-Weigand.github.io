@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Who is Michael Weigand?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Financial Analyst at Sherwin Williams in Garland, Texas. I enjoy solving business problems, especially ones that involve data and strategic thinking. If I'm not thinking about data or business, I'm probably occupied by sports. Reasons you should want to work with me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I rock a great mustache, but my mom usually makes me shave it
+- I'm tall, and that can come in handy when you least expect it
+- Former #2 rank in Doodle Jump
 
-What else do you need?
+What else could you possibly want?
+
 
 ### My story
 
